@@ -1,9 +1,3 @@
-// Smoothscroll - doc: https://github.com/cferdinandi/smooth-scroll
-var scroll = new SmoothScroll('a[href*="#"]', {
-    speed: 700,
-    speedAsDuration: true
-});
-
 // Scroll out - doc: https://scroll-out.github.io/guide.html#configuration
 ScrollOut();
 
